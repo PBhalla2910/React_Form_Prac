@@ -1,0 +1,33 @@
+
+.App {
+  text-align: center;
+  
+}
+
+.App-header-div {
+  background-color: #282c34;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  display: inline-flex;
+  flex-direction:row;
+  width:100%
+}
+
+
+.Hcdlogo {
+  float: left;
+}
+
+.houseimg_body{
+  
+    color: black;
+    text-shadow: 2px 2px wheat;
+   
+    font-size: x-large;
+    font-weight: 700;
+}
+footer{
+  background-color:#282c34 ;
+  color: white;
+  padding: 8.5px 0;
+}
